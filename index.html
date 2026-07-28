@@ -76,10 +76,27 @@
   .push-btn:active{transform:scale(.96)}
   .foot{text-align:center;color:#9aa3b2;font-size:11px;margin-top:18px;line-height:1.6}
   .badge-n{position:absolute;right:14px;top:13px}
+  .gate{position:fixed;inset:0;z-index:999;background:linear-gradient(135deg,#4f46e5,#6366f1);display:flex;align-items:center;justify-content:center;padding:24px}
+  .gate-card{background:#fff;border-radius:20px;padding:28px 24px;width:100%;max-width:320px;text-align:center;box-shadow:0 12px 40px rgba(0,0,0,.25)}
+  .gate-title{font-size:20px;font-weight:800;color:var(--ink)}
+  .gate-sub{font-size:13px;color:var(--sub);margin:6px 0 18px}
+  .gate-input{width:100%;border:1px solid var(--line);border-radius:12px;padding:12px;font-size:16px;text-align:center;outline:none;margin-bottom:12px}
+  .gate-btn{width:100%;background:var(--brand);color:#fff;border:0;border-radius:12px;padding:12px;font-size:15px;font-weight:700}
+  .gate-btn:active{opacity:.85}
+  .gate-err{color:#dc2626;font-size:12px;margin-top:10px;min-height:16px}
 </style>
 </head>
 <body>
-<div class="wrap">
+<div class="gate" id="gate">
+  <div class="gate-card">
+    <div class="gate-title">🔒 秋招雷达</div>
+    <div class="gate-sub">请输入访问口令</div>
+    <input class="gate-input" id="gate-input" type="password" placeholder="口令" autocomplete="off" />
+    <button class="gate-btn" id="gate-btn">进入</button>
+    <div class="gate-err" id="gate-err"></div>
+  </div>
+</div>
+<div class="wrap" id="app" style="display:none">
   <header>
     <div class="h-top">
       <div>
@@ -219,7 +236,17 @@ document.getElementById("cityChips").onclick = e=>{
 document.getElementById("search").oninput = e=>{ F.q=e.target.value; render(); };
 
 if("serviceWorker" in navigator){ navigator.serviceWorker.register("sw.js").catch(()=>{}); }
-load(false);
+const PASSCODE = "8829";   // ← 想换口令就改这里，然后告诉我重新推送
+const gateEl = document.getElementById("gate");
+const appEl = document.getElementById("app");
+function tryUnlock(){
+  const v = document.getElementById("gate-input").value;
+  if(v === PASSCODE){ sessionStorage.setItem("qz_unlock","1"); gateEl.style.display="none"; appEl.style.display=""; load(false); }
+  else { document.getElementById("gate-err").textContent = "口令错误，请重试"; }
+}
+if(sessionStorage.getItem("qz_unlock") === "1"){ gateEl.style.display="none"; appEl.style.display=""; load(false); }
+document.getElementById("gate-btn").addEventListener("click", tryUnlock);
+document.getElementById("gate-input").addEventListener("keydown", e=>{ if(e.key==="Enter") tryUnlock(); });
 </script>
 </body>
 </html>
