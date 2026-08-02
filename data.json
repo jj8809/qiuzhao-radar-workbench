@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-08-02",
   "stats": {
-    "total": 17,
+    "total": 28,
     "applied": 0,
     "interview": 0,
-    "sUntouched": 9
+    "sUntouched": 12
   },
   "jobs": [
     {
@@ -227,6 +227,149 @@
       "link": "https://mp.weixin.qq.com/s/aITamA_3khZ9KmHhz4ii8w",
       "reason": "大厂+可转正+数仓，城市待确认是否含广州/深圳",
       "pushDate": "2026-07-28"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "Shopee",
+      "role": "大数据开发工程师",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/e1hhJ1JThc2Rx3Q5-lwg_Q",
+      "reason": "电商大厂+深圳研发中心+大数据方向，直接对口 Flume+Kafka+Spark 实时词频（延迟<1s）与 Hadoop HA 搭建经历",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "顺丰科技",
+      "role": "大数据挖掘与分析工程师(2027暑期实习)",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "暑期实习(可转正)",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/w_1_N4EcDD87hvW1kTn_3w",
+      "reason": "物流科技大厂+深圳+数据挖掘分析，直接对口 K-means 电商用户分群（轮廓系数0.68）与 pandas/SQL 分析栈",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "招银网络科技",
+      "role": "算法工程师",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/T1QdxbVxeDtDuDV2K6UjAQ",
+      "reason": "招行全资银行科技+深圳+STEM专业可投，算法方向对口 K-means/KNN/线性回归+scikit-learn 建模经历",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "Shopee",
+      "role": "算法工程师",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/e1hhJ1JThc2Rx3Q5-lwg_Q",
+      "reason": "深圳大厂算法岗，但偏搜索推荐算法、要求高于现有 K-means/KNN 机器学习水平",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "顺丰科技",
+      "role": "数据产品经理(2027暑期实习)",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "暑期实习(可转正)",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/w_1_N4EcDD87hvW1kTn_3w",
+      "reason": "大厂+深圳+可转正，数据产品偏业务侧，证据为笔记本市场可视化平台（Django+PyEcharts，3人团队）与团委统筹经历",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "平安科技",
+      "role": "AI算法工程师(NOVA超新星AI人才计划)",
+      "city": "深圳",
+      "year": "校招(届别待确认)",
+      "type": "校招",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/54PEYRNzhz0tNgq--azayA",
+      "reason": "深圳金融科技大厂，方向对口但要求大模型/AI专项，高于现有 scikit-learn 机器学习经历",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "名创优品",
+      "role": "数据开发实习生",
+      "city": "广州",
+      "year": "实习(届别待确认)",
+      "type": "日常实习",
+      "deadline": "尽快投递",
+      "link": "https://www.xiaohongshu.com/explore/6a66b361000000001d00c5d1",
+      "reason": "广州总部新消费龙头（纽交所+港股上市）+数据开发对口，证据 Hive/Sqoop/Doris 了解与数仓分层设计；需向HR确认转正通道",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "中国移动九天",
+      "role": "数据架构师/算法工程师",
+      "city": "广州",
+      "year": "校招(届别待确认)",
+      "type": "校招",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/mUysroxjsbY8qGK88ETCBg",
+      "reason": "央企AI子公司+广州在招聘城市内，数据架构方向对口 Hadoop/HDFS/YARN 与数仓分层，经历偏了解级",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "美团",
+      "role": "机器学习/数据挖掘算法工程师(2027转正实习)",
+      "city": "待确认(北京上海+10，需核实含大湾区)",
+      "year": "2027届",
+      "type": "转正实习",
+      "deadline": "尽快投递",
+      "link": "http://mp.weixin.qq.com/s?__biz=MjM5NzYyMzIwMg%3D%3D&mid=2792295176&idx=2&sn=05cd4d9793b36d0bfa72cfd6d0bd0d47",
+      "reason": "头部大厂+明确转正实习+数据挖掘对口 K-means 用户分群，城市待确认是否含广州/深圳",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "B",
+      "company": "名创优品",
+      "role": "数据产品实习生",
+      "city": "广州",
+      "year": "实习(届别待确认)",
+      "type": "日常实习",
+      "deadline": "尽快投递",
+      "link": "https://www.xiaohongshu.com/explore/6a66b361000000001d00c5d1",
+      "reason": "广州+知名消费企业，但数据产品偏业务需求梳理，技术匹配度一般，证据为公众号运营与团委统筹通用能力",
+      "pushDate": "2026-08-02"
+    },
+    {
+      "status": "未投",
+      "grade": "B",
+      "company": "奥比中光",
+      "role": "算法类",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招",
+      "deadline": "尽快投递",
+      "link": "https://mp.weixin.qq.com/s/SEWDaGrFu0PQQpDz6_8D6w",
+      "reason": "深圳3D视觉硬件公司，算法偏计算机视觉/结构光，与现有 K-means/统计建模经历匹配度一般，作保底",
+      "pushDate": "2026-08-02"
     }
   ]
 }
