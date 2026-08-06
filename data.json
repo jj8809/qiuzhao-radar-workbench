@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-06",
   "stats": {
-    "total": 46,
+    "total": 50,
     "applied": 0,
     "interview": 0,
-    "sUntouched": 18
+    "sUntouched": 20
   },
   "jobs": [
     {
@@ -604,6 +604,58 @@
       "link": "https://career.huawei.com",
       "reason": "深圳总部顶级大厂+提前批进行中、正式批8月开闸，软件/数据岗可对口 Python/SQL 与大数据栈，但门槛高且需在官网筛具体数据方向岗位",
       "pushDate": "2026-08-05"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "广东华润银行",
+      "role": "风险模型/数据分析/策略岗（2027届暑期实习）",
+      "city": "深圳/广州/珠海",
+      "year": "2027届",
+      "type": "暑期实习(可转正)",
+      "deadline": "尽快投递",
+      "link": "https://www.crbank.com.cn/",
+      "reason": "央企华润集团旗下银行+大湾区广深在列+27届暑期实习，风险模型/数据分析/策略岗直接对口 pandas+SQL+可视化与 K-means 电商分群（轮廓0.68），金融科技/数智金融方向对应数仓分层与 Hive/Sqoop/Doris 了解",
+      "pushDate": "2026-08-06"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "阿里巴巴",
+      "role": "2027届应届生招聘（数据研发/数据科学方向）",
+      "city": "广州/深圳",
+      "year": "2027届",
+      "type": "校招(正式批)",
+      "deadline": "招满即止",
+      "link": "https://talent.alibaba.com/campus/home",
+      "reason": "大厂+8/4官宣2027届校招+广深双城在招聘城市内，数据研发/数据科学方向直接对口 Flume+Kafka+Spark 实时计算与 pandas+SQL 分析栈；海量AI与数据岗位开放",
+      "pushDate": "2026-08-06"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "深信服",
+      "role": "X-STAR 顶尖人才计划（算法/AI-Infra/大数据AI，本硕）",
+      "city": "深圳/广州",
+      "year": "2027届",
+      "type": "校招(提前批)",
+      "deadline": "2026-09-21",
+      "link": "https://hr.sangfor.com",
+      "reason": "深圳网络安全龙头(市值国内第一)+广深均有 X-STAR 本硕岗+27届，AI算法方向对口 scikit-learn 建模，但偏大模型/NLP/CV/多模态与分布式训练，要求显著高于现有 K-means 水平，作A级保冲",
+      "pushDate": "2026-08-06"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "晶泰科技",
+      "role": "AIDD/具身智能研发工程师（算法类，27届校招）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "2026-09-19",
+      "link": "https://www.xtalpi.com/career/campus-recruitment",
+      "reason": "港交所上市 AI4Science 独角兽+深圳研发中心+27届本硕博可投，算法类含 AIDD/大模型方向对口机器学习经历，但偏深度学习/药物研发，要求高于现有 scikit-learn 水平，作A级保冲",
+      "pushDate": "2026-08-06"
     }
   ]
 }
