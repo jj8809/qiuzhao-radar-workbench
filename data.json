@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-08-07",
   "stats": {
-    "total": 50,
+    "total": 56,
     "applied": 0,
     "interview": 0,
-    "sUntouched": 20
+    "sUntouched": 23
   },
   "jobs": [
     {
@@ -656,6 +656,84 @@
       "link": "https://www.xtalpi.com/career/campus-recruitment",
       "reason": "港交所上市 AI4Science 独角兽+深圳研发中心+27届本硕博可投，算法类含 AIDD/大模型方向对口机器学习经历，但偏深度学习/药物研发，要求高于现有 scikit-learn 水平，作A级保冲",
       "pushDate": "2026-08-06"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "安克创新",
+      "role": "2027届暑期实习生（数据开发类）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "暑期实习(可转正)",
+      "deadline": "以官网为准",
+      "link": "https://career.anker-in.com/universities/recruitment",
+      "reason": "深圳总部A股上市智能硬件龙头+明确「实习表现突出可直通校招转正并发放留用奖金」，数据开发类直接对口 Hadoop HA/HDFS/YARN 搭建与 Flume+Kafka+Spark 实时计算（延迟<1s），岗位加分项 Python/SQL 与 pandas+MySQL 复杂查询完全吻合",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "影石Insta360",
+      "role": "2027届秋季校园招聘（产品运营类-数据分析方向）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "2026-10-31",
+      "link": "https://www.insta360.com/cn/jobs",
+      "reason": "深圳科创板上市消费电子独角兽+本科可投+产品运营类明确开放数据分析岗且适配统计学/计算机专业，直接对口 K-means 电商用户分群（轮廓0.68）与 Power BI/FineBI 可视化报表",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "腾讯音乐",
+      "role": "2027技术大咖计划（技术类-数据方向）",
+      "city": "深圳/广州",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "2026-09-17",
+      "link": "https://join.tencentmusic.com/campus",
+      "reason": "头部大厂+深广均在招聘城市+本科及以上，技术类明确含数据/算法方向、职责涉及数据分析与算法优化，直接对口 pandas/MySQL 分析栈与 K-means 用户分群经历；网申9-17截止需尽快",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "广发证券",
+      "role": "数据运营分析岗（2027届校招）",
+      "city": "广州",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "尽快投递",
+      "link": "http://job.gf.com.cn/",
+      "reason": "广州总部头部券商+岗位含数据分析/数据运营方向、需求专业含数理统计/计算机/信息管理，对口 pandas+SQL 与股票量化交易系统（Flask+MySQL+backtrader）经历；但该司往年暑期批限硕博，本科门槛需官网核实",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "招银网络科技",
+      "role": "运维研发工程师（2027届秋招）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "2026-09-20",
+      "link": "https://cmbnt.cmbchina.com",
+      "reason": "招行全资银行科技+深圳+明确本科及以上STEM可投，JD 写明「具备 pandas、scikit-learn 使用经验者优先，具备大数据处理经验者优先」，对口基础大数据平台建设与 scikit-learn 建模，但岗位偏运维方向",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "B",
+      "company": "NVIDIA",
+      "role": "2027届校园招聘（AI与高性能计算/软件类）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "招满即止",
+      "link": "https://www.nvidia.cn/about-nvidia/careers/",
+      "reason": "顶级外企+深圳在招聘城市内+本科及以上可投，属偏好清单中的外企方向，但岗位偏 CUDA/HPC 底层与深度学习框架，与现有 K-means/scikit-learn 统计建模经历匹配度一般，作保底",
+      "pushDate": "2026-08-07"
     }
   ]
 }
