@@ -1,10 +1,10 @@
 {
   "lastUpdated": "2026-08-07",
   "stats": {
-    "total": 56,
+    "total": 63,
     "applied": 0,
     "interview": 0,
-    "sUntouched": 23
+    "sUntouched": 26
   },
   "jobs": [
     {
@@ -733,6 +733,97 @@
       "deadline": "招满即止",
       "link": "https://www.nvidia.cn/about-nvidia/careers/",
       "reason": "顶级外企+深圳在招聘城市内+本科及以上可投，属偏好清单中的外企方向，但岗位偏 CUDA/HPC 底层与深度学习框架，与现有 K-means/scikit-learn 统计建模经历匹配度一般，作保底",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "京东",
+      "role": "2027届校园招聘（JDS新星计划·技术方向-数据开发）",
+      "city": "广州/深圳",
+      "year": "2027届",
+      "type": "校招(正式批)",
+      "deadline": "2026-11-30",
+      "link": "https://campus.jd.com",
+      "reason": "8/3官宣2027届本科及以上可投+广深均在办公城市（最多可选3个意向城市），技术方向数据开发岗JD明确要求Flink/Spark/Kafka/HDFS与数据仓库架构建模，直接对口 Flume+Kafka+Spark 实时词频（延迟<1s）与 Hadoop HA/HDFS/YARN 搭建及数仓分层设计经历",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "SHEIN希音",
+      "role": "信息技术类-数据分析/数据挖掘（2027届）",
+      "city": "广州/深圳",
+      "year": "2027届",
+      "type": "校招/暑期实习(可转正)",
+      "deadline": "尽快投递",
+      "link": "https://app.mokahr.com/m/campus_apply/shein/2932",
+      "reason": "广州总部全球跨境电商超级独角兽+27届可投+信息技术类明确含数据分析/数据挖掘方向，直接对口 K-means 电商用户分群（轮廓0.68）与招聘网站爬虫及薪资/区域分析（1200+条、反爬）经历",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "S",
+      "company": "CVTE视源股份",
+      "role": "2027届实习生「青源计划」（算法类-数据挖掘方向）",
+      "city": "广州",
+      "year": "2027届",
+      "type": "实习(可转正)",
+      "deadline": "尽快投递",
+      "link": "https://campus.cvte.com/",
+      "reason": "广州总部A股上市（002841）中国制造业500强+官方明确「提供转正通道，先人一步斩获2027届校招Offer」，算法类岗位含数据挖掘方向，直接对口 K-means 分群（轮廓0.68）与 scikit-learn 建模、TSNE降维经历",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "网易互娱",
+      "role": "2027届校园招聘项目（技术类）",
+      "city": "广州",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "招满即止",
+      "link": "https://campus.163.com/",
+      "reason": "广州大厂+7/21网申已开放+本科可投，技术类可对口 Python/MySQL 复杂查询与 Django/Flask 工程经验，但整体以游戏研发为主需在官网筛数据/后台方向（与已有「实习生培养项目」为不同批次）",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "A",
+      "company": "平安人寿",
+      "role": "NS管培生（数据分析）",
+      "city": "深圳",
+      "year": "届别待确认",
+      "type": "校招(管培生)",
+      "deadline": "2027-03-06",
+      "link": "https://www.shixiseng.com/intern/inn_pd7jxrkcpq91",
+      "reason": "深圳平安金融中心+本科可投，JD明确要求SQL/Python/统计分析/指标标签体系/可视化看板/数仓理论，直接对口 pandas+MySQL 复杂查询与 Power BI/FineBI 多维报表经历；但岗位标注「应届生毕业1年内」，2027届投递资格需向HR确认",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "B",
+      "company": "腾讯",
+      "role": "广告营销管培生（行业操盘方向-数据分析）",
+      "city": "深圳/广州",
+      "year": "2027届",
+      "type": "校招(秋招)",
+      "deadline": "网申预计8月上旬",
+      "link": "https://join.qq.com/campus.html",
+      "reason": "头部大厂+深广均在20余个办公城市内+本科不限专业，行业操盘方向明确要求数据分析能力，可用 pandas 分析栈与团委统筹（10+活动/2000+人）、公众号运营（80+推文）通用能力；但属营销管培生偏运营，**仅投行业操盘方向，避开商业增长（销售）方向**",
+      "pushDate": "2026-08-07"
+    },
+    {
+      "status": "未投",
+      "grade": "B",
+      "company": "荣耀",
+      "role": "2027校园招聘（研发大类-AI/算法类）",
+      "city": "深圳",
+      "year": "2027届",
+      "type": "校招/实习",
+      "deadline": "尽快投递",
+      "link": "https://www.honor.com/cn/career/",
+      "reason": "深圳AI终端生态龙头+14大类70+岗位（含研发大类、流程IT与质量运营大类），但AI类岗位占比超60%偏大模型/端侧算法，与现有 K-means/scikit-learn 统计建模经历匹配度一般，作保底；实习转正通道需向HR确认",
       "pushDate": "2026-08-07"
     }
   ]
